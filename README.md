@@ -1,2 +1,3 @@
 # Interesting projects I am working on to better my understanding of software development and machine learning
 # maze_files include code to generate a maze as well as code to instruct a "bot" to traverse the maze using BFS. This is all output to the console with MatPlotLib in real time. 
+# posture_detect will be a project to detect the posture of a person sitting at their computer through their camera. This will start with face detection, proximity to computer, then move on to detecting "skeletal" posture
